@@ -1,12 +1,13 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="300"/>
 </div>
-### Hi there 👋
 <div id="badges">
- <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/javier-sánchez-carrizo-99a95b225/"/>
+ <a href="[your-linkedin-URL](https://www.linkedin.com/in/javier-sánchez-carrizo-99a95b225/)">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/javier-sánchez-carrizo-99a95b225/"/>
   </a>
  <div>
+### Hi there 👋
+
 <!--
 **JavierS08/JavierS08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
