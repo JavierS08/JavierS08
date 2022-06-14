@@ -9,6 +9,7 @@
   <a>
    <img src="https://komarev.com/ghpvc/?username=Funi08&style=flat-square&color=blue" alt=""/>
    <a/>
+   ---
    <div>
   :woman_technologist: About Me :
     <br>
