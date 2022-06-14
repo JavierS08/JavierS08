@@ -11,13 +11,11 @@
    <a/>
    <div>
   :woman_technologist: About Me :
-    <a>
+    <br>
   :seedling: Estoy estudiando un grado superior de Desarrollo de Aplicaciones Multiplataformas.
-    <a/>
-    <a>
+    <br>
   :zap: Trato de mejorar cada día mis habilidades.
-    <a/>
-    
+
    </div>
 <!--
 **JavierS08/JavierS08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
