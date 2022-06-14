@@ -7,7 +7,6 @@
   </a>
  <div>
    <img src="https://komarev.com/ghpvc/?username=Funi08&style=flat-square&color=blue" alt=""/>
-### Hi there 👋
 
 <!--
 **JavierS08/JavierS08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
