@@ -10,7 +10,10 @@
    <img src="https://komarev.com/ghpvc/?username=Funi08&style=flat-square&color=blue" alt=""/>
    <a/>
    <div>
-### :woman_technologist: About Me :
+  :woman_technologist: About Me :
+  :seedling: Estoy estudiando un grado superior de Desarrollo de Aplicaciones Multiplataformas.
+  :zap: Trato de mejorar cada día mis habilidades.
+    
    </div>
 <!--
 **JavierS08/JavierS08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
