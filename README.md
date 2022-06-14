@@ -11,8 +11,12 @@
    <a/>
    <div>
   :woman_technologist: About Me :
+    <a>
   :seedling: Estoy estudiando un grado superior de Desarrollo de Aplicaciones Multiplataformas.
+    <a/>
+    <a>
   :zap: Trato de mejorar cada día mis habilidades.
+    <a/>
     
    </div>
 <!--
