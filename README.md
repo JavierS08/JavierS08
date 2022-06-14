@@ -6,7 +6,9 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  <div>
+  <a>
    <img src="https://komarev.com/ghpvc/?username=Funi08&style=flat-square&color=blue" alt=""/>
+   <a/>
 ### :woman_technologist: About Me :
 <!--
 **JavierS08/JavierS08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
