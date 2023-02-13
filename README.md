@@ -51,4 +51,3 @@
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JavierS08&theme=dark&background=000000)](https://git.io/streak-stats) ![JavierS08's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JavierS08&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JavierS08&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
